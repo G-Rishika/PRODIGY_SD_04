@@ -1,4 +1,4 @@
-Sudoku Solver
+Sudoku Solver - Internship Task 4
 
 This project is a web-based Sudoku Solver built using HTML, CSS, and JavaScript. 
 It allows users to input a 9x9 Sudoku puzzle, solve it using a backtracking algorithm, and clear the board to try new puzzles.
@@ -39,3 +39,6 @@ Learning Outcomes
   Practiced separating structure (HTML), design (CSS), and logic (JS).
   Developed an interactive tool simulating real-world problem solving.
   
+Created by 
+  Rishika.G,
+  B.Sc Computer Science with Artificial Intelligence 
